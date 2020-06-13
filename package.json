@@ -14,7 +14,7 @@
         "node-red-contrib-model-asset-exchange": "^0.2.8",
         "node-red-node-cf-cloudant": "0.x",
         "node-red-node-openwhisk": "0.x",
-        "node-red-node-watson": "0.x",
+        "node-red-node-watson": "^0.9.2",
         "node-red-nodes-cf-sqldb-dashdb": "0.x"
     },
     "scripts": {
